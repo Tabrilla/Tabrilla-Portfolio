@@ -4,7 +4,7 @@ import installNode from '../assets/installNode.jpg'
 import navbar from '../assets/navbar.jpg'
 import reactSmooth from '../assets/reactSmooth.jpg'
 import reactWeather from '../assets/reactWeather.jpg'
-import useState from '../assets/useState.jpg'
+import useState from '../assets/usestate.jpg'
 
 
 const Portfolio = () => {
