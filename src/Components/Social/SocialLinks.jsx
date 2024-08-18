@@ -15,7 +15,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={25} /> 
                 </>
             ),
-            href: 'https://www.linkedin.com/in/angeles-tabrilla-7a7035194/',
+            href: '/',
             style: 'rounded-tr-md',
         },
 
@@ -26,7 +26,7 @@ const SocialLinks = () => {
                     Github <FaGithub size={25} /> 
                 </>
             ),
-            href: 'https://github.com/Tabrilla',
+            href: '/',
         },
 
         {
@@ -36,7 +36,7 @@ const SocialLinks = () => {
                     Email <HiOutlineMail size={25} /> 
                 </>
             ),
-            href: 'mailto:angelestabrilla10@gmail.com',
+            href: '/',
         },
 
         {
@@ -46,8 +46,8 @@ const SocialLinks = () => {
                      Resume <BsFillPersonCheckFill size={25} />
                 </>
             ),
-            href: '',
-            download: true,
+            href: '/'
+          
         },
 
         {
@@ -57,7 +57,7 @@ const SocialLinks = () => {
                     Facebook <BsFacebook size={25} /> 
                 </>
             ),
-            href: 'https://www.facebook.com/angeles.tabrilla',
+            href: '/',
             style: 'rounded-br-md',
         },
     ]
